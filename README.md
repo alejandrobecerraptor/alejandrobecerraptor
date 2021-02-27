@@ -6,7 +6,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/j4xDSW0AFDn4sNh3B7/giphy.gif" width="50"> Un poco de lo que se...  
+### <img src="https://media.giphy.com/media/PS854yemutngZAy1qP/giphy.gif" width="50"> Un poco de lo que se...  
 
 ```javascript
 const alejandro = {
