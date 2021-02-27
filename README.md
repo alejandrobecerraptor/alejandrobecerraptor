@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2> Hola, Soy Alejandro! <img src="https://media.giphy.com/media/W1SROduPg4GLkwBSRQ/giphy.gif" width="50"></h2>
+<p><em>Ingeniero de Sistemas de la 
+<a href="https://www.univalle.edu.co">Universidad del Valle </a>
+<img src="https://media.giphy.com/media/W4WXjiRhlq2l5FiYkF/giphy.gif" width="35">
+</em></p><br><p><em>Actualmente Me Estoy enfocando en convertirme en Desarrollador Frontend con la tecnologia de ReactJs.</p>
 
-<!--
-**alejandrobecerraptor/alejandrobecerraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/j4xDSW0AFDn4sNh3B7/giphy.gif" width="50"> Un poco de lo que se...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const alejandro = {
+  Pronombres: "El" | "Mi",
+  codigo: [Javascript, HTML, CSS, PHP],
+  Frameworks: [ReactJs, Laravel],
+  Conocimientos: [SQL, PhpMyAdmin, GitHub, GitLab],
+  Marco: [Scrum, ScrumBan, Kanban],
+  InfoAdicional: {
+            Ubicacion: "Tulua,Valle,Colombia",
+            Contacto:"alejandro.becerra.pro@gmail.com"
+                 },
+ Focus: "Aprendiendo ReactJs con Redux y Single-SPA"
+}
+```
+Resumen de conocimientos varios: <br>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+
+---
+</em>
+En este perfil podras encontrar diferentes tipos de proyectos que he realizado , espero te gusten y que dejes algun comentario, recuerda leer los readme de cada poryecto ya que explica detalladamente para que sirve la aplicacion y con cuales cositas fue desarrollada, Muchas Gracias 🔥
