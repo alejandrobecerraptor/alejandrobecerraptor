@@ -12,14 +12,14 @@
 const alejandro = {
   Pronombres: "El" | "Mi",
   codigo: [Javascript, HTML, CSS, PHP],
-  Frameworks: [ReactJs, Laravel],
+  Frameworks: [ReactJs, Angular, Laravel],
   Conocimientos: [SQL, PhpMyAdmin, GitHub, GitLab],
   Marco: [Scrum, ScrumBan, Kanban],
   InfoAdicional: {
             Ubicacion: "Tulua,Valle,Colombia",
             Contacto:"alejandro.becerra.pro@gmail.com"
                  },
- Focus: "Aprendiendo ReactJs con Redux y Single-SPA"
+ Focus: "Aprendiendo Angular, patrones de diseño, clean code, arquitectura.. entre otros"
 }
 ```
 Resumen de conocimientos varios: <br>
