@@ -24,6 +24,7 @@ const alejandro = {
 ```
 Resumen de conocimientos varios: <br>
 <code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a></code>
